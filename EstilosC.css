@@ -1,7 +1,11 @@
-
+body{
+    background-image: url(Imagen/Houshou\ marine\ \(3\).png);
+    background-size: cover;
+}
 
 .form-label{
-    color: red;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #Comentario{
@@ -15,4 +19,20 @@
 
 .texto{
     text-align: right;
+}
+
+.Titulo1{
+    color: rgb(255, 255, 255);
+
+}
+
+.Parrafo1{
+    color: white;
+    text-align: center;
+    background-image: url(Imagen/unnamed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    width: 1700px;
+
 }
